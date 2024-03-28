@@ -1,0 +1,9 @@
+Author: Kester Nkese
+
+This program is a RSA Encryption application, written with Python with a user-friendly graphical interface
+that enables users to perform RSA encryption and decryption of text messages.
+Uses the `tkinter` library for the GUI and the `pycryptodome` library
+for cryptographic operations, the tool automatically generates RSA keys upon
+initialization and provides users with straightforward functionalities to encrypt
+plain text and decrypt ciphertext. The encryption result is presented in hexadecimal format,
+this application offers an intuitive way for users to interact and understand fundamental concepts of RSA encryption.
